@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\dell\downloads\researches\ds\comp-finalassignment\debug\comp-finalassignment.exe' is denied.
+  classes.cpp
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\dell\Downloads\Researches\DS\Comp-FinalAssignment\Debug\Comp-FinalAssignment.exe'
